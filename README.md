@@ -1,1 +1,3 @@
 Learning JavaScript...
+
+Aprendendo Javascript e construindo alguns projetos básicos
